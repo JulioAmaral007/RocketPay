@@ -4,7 +4,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -41,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by JulioAmaral007 :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by JulioAmaral007 
